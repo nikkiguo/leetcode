@@ -1,2 +1,6 @@
-# leetcode
-Archive of solved problems
+# LeetCode
+An archive of problems solved
+
+# Completed Problems
+| # | Problem | Solution | Difficulty | Date Completed |
+|---| ----- | -------- | ---------- | -------------- |
