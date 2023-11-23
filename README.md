@@ -15,4 +15,6 @@ An archive of problems solved
 | 235 | [Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Python](./Solutions/LeetCode/Trees/LowestComAncestor.py) | Medium | LeetCode | 20/11/2023 |
 | 226 | [Invert Binary Search Tree](https://leetcode.com/problems/invert-binary-tree) | [Python](./Solutions/LeetCode/Trees/InvertBinaryTree.py) | Easy | LeetCode | 21/11/2023 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./Solutions/LeetCode/Trees/MaxDepth.py) | Easy | LeetCode | 21/11/2023 |
-| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Python](./Solutions/LeetCode/ArrayHashing/TopKFrequent.py) | Medium | LeetCode | 21/11/2023 |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](./Solutions/LeetCode/ArrayHashing/MaximumSubarray.py) | Medium | LeetCode | 22/11/2023 |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./Solutions/LeetCode/ArrayHashing/ValidPalindrome.py) | Easy | LeetCode | 22/11/2023 |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](./Solutions/LeetCode/ArrayHashing/ContainerMostWater.py) | Medium | LeetCode | 22/11/2023 |
