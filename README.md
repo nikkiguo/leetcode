@@ -21,3 +21,6 @@ An archive of problems solved
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Python](./Solutions/LeetCode/SlidingWindow/BestStock.py) | Easy | LeetCode | 24/11/2023 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](./Solutions/LeetCode/Trees/IsSameTree.py) | Easy | LeetCode | 24/11/2023 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [Python](./Solutions/LeetCode/ArrayHashing/ReverseWords.py) | Medium | LeetCode | 24/11/2023 |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](./Solutions/LeetCode/SlidingWindow/LongestSubstring.py) | Medium | LeetCode | 25/11/2023 |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Python](./Solutions/LeetCode/LinkedList/ReverseLinkedList.py) | Easy | LeetCode | 25/11/2023 |
+| 21 | [Merge Linked List](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./Solutions/LeetCode/LinkedList/ReverseLinkedList.py) | Easy | LeetCode | 25/11/2023 |
