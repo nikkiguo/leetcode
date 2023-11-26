@@ -27,3 +27,4 @@ An archive of problems solved
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python](./Solutions/LeetCode/LinkedList/ContainsCycle.py) | Easy | LeetCode | 26/11/2023 |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Python](./Solutions/LeetCode/LinkedList/DeleteNode.py) | Medium | LeetCode | 26/11/2023 |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | [Python](./Solutions/LeetCode/Strings/RemoveStars.py) | Medium | LeetCode | 26/11/2023 |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](./Solutions/LeetCode/Strings/ShuffleString.py) | Easy | LeetCode | 26/11/2023 |
