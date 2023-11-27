@@ -28,3 +28,11 @@ An archive of problems solved
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Python](./Solutions/LeetCode/LinkedList/DeleteNode.py) | Medium | LeetCode | 26/11/2023 |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | [Python](./Solutions/LeetCode/Strings/RemoveStars.py) | Medium | LeetCode | 26/11/2023 |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](./Solutions/LeetCode/Strings/ShuffleString.py) | Easy | LeetCode | 26/11/2023 |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python](./Solutions/LeetCode/Trees/CheckSymmetric.py) | Easy | LeetCode | 27/11/2023 |
+| 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | [Python](./Solutions/LeetCode/Strings/SortVowels.py) | Medium | LeetCode | 27/11/2023 |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | [Python](./Solutions/LeetCode/ArrayHashing/BuildArray.py) | Medium | LeetCode | 27/11/2023 |
+
+
+
+
+
