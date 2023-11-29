@@ -31,8 +31,8 @@ An archive of problems solved
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python](./Solutions/LeetCode/Trees/CheckSymmetric.py) | Easy | LeetCode | 27/11/2023 |
 | 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | [Python](./Solutions/LeetCode/Strings/SortVowels.py) | Medium | LeetCode | 27/11/2023 |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | [Python](./Solutions/LeetCode/ArrayHashing/BuildArray.py) | Medium | LeetCode | 27/11/2023 |
-
-
-
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [Python](.Solutions/LeetCode/ArrayHashing/PivotArray.py) | Medium | LeetCode | 28/11/2023 |
+| 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [Python](./Solutions/LeetCode/ArrayHashing/StrictlyPalindromic.py) | Medium | LeetCode | 28/11/2023 |
+| 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [Python](./Solutions/LeetCode/ArrayHashing/MinMaxSum.py) | Medium | LeetCode | 28/11/2023 |
 
 
